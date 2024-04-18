@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "e6f6",
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-18T09:31:54.309Z",
+      "notes": "",
+      "position": {
+        "lat": "40.0420720803174",
+        "lng": "-0.111236572265625"
+      }
+    },
+    {
+      "id": "cd07",
+      "cityName": "l'Alcora",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-18T09:31:57.811Z",
+      "notes": "",
+      "position": {
+        "lat": "40.05127080263306",
+        "lng": "-0.19603729248046875"
+      }
+    },
+    {
+      "id": "f840",
+      "cityName": "l'Alcora",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-18T09:32:03.607Z",
+      "notes": "",
+      "position": {
+        "lat": "40.06441922460832",
+        "lng": "-0.22246558421717524"
+      }
+    },
+    {
+      "id": "6c67",
+      "cityName": "Moscow",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-04-18T09:32:09.140Z",
+      "notes": "",
+      "position": {
+        "lat": "55.74973708303448",
+        "lng": "37.614279405591645"
+      }
+    },
+    {
+      "id": "9342",
+      "cityName": "Moscow",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-04-18T09:32:40.597Z",
+      "notes": "",
+      "position": {
+        "lat": "55.743072812882936",
+        "lng": "37.611017472377064"
+      }
+    }
+  ]
+}
